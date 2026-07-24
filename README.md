@@ -111,7 +111,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Mouri69/Mouri69/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Mouri69/Mouri69/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
 ---
