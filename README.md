@@ -114,8 +114,6 @@
 <img src="https://raw.githubusercontent.com/Mouri69/Mouri69/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
-> 💡 To enable the snake animation above, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named `Mouri69/Mouri69`.
-
 ---
 
 <div align="center">
